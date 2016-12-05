@@ -1,0 +1,9 @@
+{
+  "name": "node-npm-exercises",
+  "version": "0.0.1",
+  "description": "NodeJS and npm exercises",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "marked": "^0.3.6"
+  }
+}
