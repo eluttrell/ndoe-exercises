@@ -4,6 +4,14 @@
   "description": "NodeJS and npm exercises",
   "dependencies": {
     "lodash": "^4.17.2",
-    "marked": "^0.3.6"
-  }
+    "marked": "^0.3.6",
+    "speed-test": "^1.7.1"
+  },
+  "main": "exercises.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah E Allstrom-Luttrell",
+  "license": "ISC"
 }
